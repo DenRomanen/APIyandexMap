@@ -1,0 +1,13 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.body__title {
+  font-size: 35px;
+}
+
+#map {
+  width: 800px;
+  height: 500px;
+}
